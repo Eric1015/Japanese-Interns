@@ -1,5 +1,7 @@
 # List of Japanese Software Engineer Interns
 
+[日本語版](README_JP.md)
+
 The main purpose of this repo is to provide information to students who are looking for gaining working experience in the software engineering field and don't know where they can start with.
 
 Finding an internship in Japan can provide you a good starting point for your career as a Software Engineer especially if you can speak Japanese.
@@ -12,7 +14,7 @@ The list will include known companies that provide software engineer internship 
 ## The List 
 
 | Company | Link | Last Updated | Comment |
-| --- | --- | :---: |
+| --- | --- | :---: | --- |
 | **Mercari** | [Student Career](https://careers.mercari.com/jp/students/) | Dec 2023 | [2023 internship article](https://mercan.mercari.com/articles/37910/) |
 | **Line** | [Internship Career](https://linecorp.com/ja/career/newgrads/internship/) | Dec 2023 | |
 | **Gunosy** | [Student Career](https://gunosy.co.jp/recruit/requirements/internship/) | Dec 2023 | |
